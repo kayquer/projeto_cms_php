@@ -37,11 +37,15 @@ Outras páginas
 
 Leis
 - CRUD
-- Campos necessários: título da lei, número da lei, descrição, anexo, data de publicação.
+- Campos necessários: título da lei, número da lei, descrição, anexo, data de publicação
 
 Notícias
 - CRUD
-- Campos necessários: título da notícia, conteúdo, imagem de anexo, categoria da notícia, data de publicação.
+- Campos necessários: título da notícia, conteúdo, imagem de anexo, categoria da notícia, slug,data de publicação
+
+Categoria da Notícia
+- CRUD
+- Campos necessários: nome da categoria. slug
 
 
 ### Conteúdo de Apoio
