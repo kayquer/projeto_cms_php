@@ -51,9 +51,9 @@ Se você estiver enfrentando dificuldades no desenvolvimento do projeto, recomen
 
 
 
-https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics
+https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics (⭐ recomendado)
 
-https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms
+https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms (⭐ recomendado)
 
 
-https://cursos.alura.com.br/course/php-web-conhecendo-padrao-mvc
+https://cursos.alura.com.br/course/php-web-conhecendo-padrao-mvc 
