@@ -44,4 +44,16 @@ Notícias
 - Campos necessários: título da notícia, conteúdo, imagem de anexo, categoria da notícia, data de publicação.
 
 
+### Conteúdo de Apoio
 
+
+Se você estiver enfrentando dificuldades no desenvolvimento do projeto, recomendo os seguintes cursos para te ajudar. 
+
+
+
+https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics
+
+https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms
+
+
+https://cursos.alura.com.br/course/php-web-conhecendo-padrao-mvc
